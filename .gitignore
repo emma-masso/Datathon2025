@@ -1,0 +1,15 @@
+predictions.csv
+data/compare-rf.csv
+data/test-parsed-1.csv
+data/test-parsed-with-predictions.csv
+data/test-results1.csv
+data/test-results2.csv
+data/train-parsed-with-predictions.csv
+models/rf_model_v1.joblib
+src/__pandas.py
+src/compare.ipynb
+src/data-transforrm.py
+src/idea-bonissima.ipynb
+src/main.py
+src/ML-linear-regression.ipynb
+src/__pycache__/pandas.cpython-312.pyc
